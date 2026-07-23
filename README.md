@@ -1,16 +1,19 @@
-## Hi there 👋
+# Braxton
 
-<!--
-**bbeck17/bbeck17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in a little bit of everything
+so I pick a wide variety of projects to do. I have only recently decided to start
+documentation and am starting this Github as a clean slate.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[flipper-zero](https://github.com/bbeck17/flipper-zero)** — A categorized
+collection of Flipper Zero files: BadUSB (DuckyScript) payloads, Sub-GHz
+captures, IR remotes, and NFC/RFID dumps. Built as a hands-on way to learn
+hardware and wireless security.
+
+*Many more, just need to start getting things organized and documented on here.*
+
+## About
+
+I believe the fastest way to understand something is to build it and break
+it. Everything I publish is for learning and authorized testing only.
